@@ -54,6 +54,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 # apps de terceros ..... tambien cambie
     'rest_framework', 
+    'tareas', 
 ]
 
 MIDDLEWARE = [
